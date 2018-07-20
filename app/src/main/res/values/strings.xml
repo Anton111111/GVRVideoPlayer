@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GVRVideoPlayer</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string-array name="video_formats">
+        <item>3D180SBS</item>
+        <item>3D180OU</item>
+        <item>3D270SBS</item>
+        <item>3D360SBS</item>
+        <item>3D360OU</item>
+        <item>2D180</item>
+        <item>2D360</item>
+    </string-array>
+
+</resources>

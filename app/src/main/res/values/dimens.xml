@@ -1,0 +1,4 @@
+<resources>
+
+    <dimen name="vr_player_activity_text_font_size">16sp</dimen>
+</resources>
